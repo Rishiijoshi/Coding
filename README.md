@@ -1,1 +1,1 @@
-https://rishiijoshi.github.io/coding/
+https://rishiijoshi.github.io/coding/calculator
